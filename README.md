@@ -14,7 +14,7 @@ Hey there! I'm Ramya, a B.Com student at Acharya Nagarjuna University, I've a de
 - *Academic Coursework*            : DBMS, MS-Excel
 
 ### Projects:
-- *Pizza Sales Analysis* :
+- **Pizza Sales Analysis** :
 In this project, I utilized SQL and Power BI to analyze and visualize pizza sales data effectively. Using SQL, I implemented various techniques to calculate key performance indicators (KPIs), employing aggregate functions, joins, window functions, and common table expressions (CTEs) to derive insights from the dataset. I created an interactive dashboard in Power BI, leveraging Power Query for efficient data transformation and DAX functions to define measures for KPIs. The dashboard features dynamic visualizations, allowing users to explore sales trends, identify best and worst sellers, and assess performance by category and size. This integration of SQL and Power BI facilitates data-driven decision-making and enhances business outcomes.
 . [Project Link](https://github.com/grishma-gedela/Online-Food-Ordering---Infosys.git)
 
