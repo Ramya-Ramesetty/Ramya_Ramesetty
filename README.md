@@ -7,7 +7,7 @@ Hey there! I'm Ramya, a B.Com student at Acharya Nagarjuna University, I've a de
 
 ### Skills & Interests:
 
-- *Programming Languages*          : Python, PowerBi, HTML, CSS, JavaScript(basic knowledge),Angular
+- *Programming Languages*          : Python, PowerBi, HTML, CSS
 - *Frameworks/Libraries*           : Bootstrap, NumPy, Pandas, seaborn, matplotlib
 - *Databases*                      : MySQL
 - *Developer Tools*                : Git/Github, Google Colab, VS Code, intellij
