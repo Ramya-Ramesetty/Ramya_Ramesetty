@@ -17,8 +17,15 @@ Hey there! I'm Ramya, a B.Com student at Acharya Nagarjuna University, I've a de
 - **Pizza Sales Analysis** :
 In this project, I utilized SQL and Power BI to analyze and visualize pizza sales data effectively. Using SQL, I implemented various techniques to calculate key performance indicators (KPIs), employing aggregate functions, joins, window functions, and common table expressions (CTEs) to derive insights from the dataset. I created an interactive dashboard in Power BI, leveraging Power Query for efficient data transformation and DAX functions to define measures for KPIs. The dashboard features dynamic visualizations, allowing users to explore sales trends, identify best and worst sellers, and assess performance by category and size. This integration of SQL and Power BI facilitates data-driven decision-making and enhances business outcomes.
 . [Project Link](https://github.com/Ramya-Ramesetty/Pizza-Sales-Analysis-Dashboard)
-
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+- **AtliQ Business Insights 360** :
+This project modernized AtliQ's reporting process by replacing Excel sheets with a Power BI Dashboard, offering key insights into Net Sales, COGS, Gross Margin, and Forecast Accuracy. The dashboard integrates data from SQL, Excel, and CSV files into one interactive platform, enabling real-time, data-driven decisions.
+- **Tools and Technologies Used**
+ - **Power BI**:To create interactive dashboards with seamless drill-downs, filters, and data views.
+ - **SQL**:For extracting and transforming data from the company's database for analysis.
+ - **DAX (Data Analysis Expressions)**: To create powerful calculations and advanced formulas for the dashboard.
+ - **Power Query:** Used for data preparation and transformation within Power BI.
+[project link](https://github.com/Ramya-Ramesetty/Buisness_Insights_360/blob/main/README.md)
 ### Connect with Me:
 
 - Email: ramyaramesetty@gmail.com
